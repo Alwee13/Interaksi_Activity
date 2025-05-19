@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">IntentProject</string>
+    <string name="pindah_halaman">Pindah ke Activity Baru</string>
+    <string name="pindah_halaman_data">Pindah ke Activity Baru dengan Data</string>
+    <string name="pindah_halaman_objek">Pindah ke Activity Baru dengan Objek</string>
+    <string name="title_activity_main">Project Intent Implicit dan Eksplisit</string>
+    <string name="title_activity_data">Data Di Terima</string>
+    <string name="title_telepon">Kontak Langsung</string>
+    <string name="title_open_anotherapps">Buka Aplikasi Lain</string>
+    <string name="second_activity">Halaman kedua menggunakan intent biasa untuk pindah halaman</string>
+    <string name="tambah_data">Tambah Data</string>
+    <string name="gender">Jenis Kelamin Anda</string>
+    <string name="laki_laki">Laki-Laki</string>
+    <string name="perempuan">Perempuan</string>
+    <string name="save">Simpan</string>
+    <string name="result_halaman_tambah_data">Result dari Halaman Tambah Data</string>
+</resources>
